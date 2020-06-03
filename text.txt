@@ -2,3 +2,4 @@ nuevo documento
 texto modificado
 
 cambio 1 desde  master
+cambio 2 desde master
